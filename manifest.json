@@ -1,0 +1,23 @@
+{
+  "name": "SICIBINAGA Kelas 8 \u2022 SMPN 3 Bangil",
+  "short_name": "SICIBINAGA K8",
+  "description": "Portal Resmi SICIBINAGA Kelas 8 (8A\u20138H \u2014 Kuning Emerald (Gold-Emerald)) UPTD SMP Negeri 3 Bangil.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#78350f",
+  "theme_color": "#d97706",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "logo-sicibinaga.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
